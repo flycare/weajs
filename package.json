@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "crypto": "0.0.3",
+    "optimist": "^0.6.1",
+    "request-promise": "^2.0.1"
+  },
+  "name": "weajs",
+  "description": "## 使用更安全的签名验证方式（荐）",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flycare/weajs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "weather"
+  ],
+  "author": "Vincent Chen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flycare/weajs/issues"
+  },
+  "homepage": "https://github.com/flycare/weajs#readme"
+}
