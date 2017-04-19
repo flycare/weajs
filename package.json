@@ -8,6 +8,7 @@
   "description": "## 使用更安全的签名验证方式（荐）",
   "version": "1.0.0",
   "main": "index.js",
+  "bin": { "weajs": "bin/weajs.js" },
   "devDependencies": {},
   "scripts": {
     "test": "node"
@@ -20,7 +21,7 @@
     "nodejs",
     "weather"
   ],
-  "author": "Vincent Chen",
+  "author": "Vincent Chen <myflycare@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/flycare/weajs/issues"
