@@ -3,7 +3,6 @@
     "colors-cli": "^1.0.8",
     "commander": "^2.9.0",
     "crypto": "0.0.3",
-    "dot": "^1.1.1",
     "optimist": "^0.6.1",
     "request-promise": "^2.0.1"
   },
