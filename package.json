@@ -9,7 +9,7 @@
   },
   "name": "weajs",
   "description": "## 使用更安全的签名验证方式（荐）",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "main": "index.js",
   "bin": {
     "weajs": "bin/weajs.js"
